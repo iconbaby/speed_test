@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpeedTest.iml" filepath="$PROJECT_DIR$/SpeedTest.iml" />
+      <module fileurl="file://C:\workplace\android_project\speed_test\SpeedTest.iml" filepath="C:\workplace\android_project\speed_test\SpeedTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\workplace\android_project\speed_test\app\app.iml" filepath="C:\workplace\android_project\speed_test\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/countdownlatchdemo/countdownlatchdemo.iml" filepath="$PROJECT_DIR$/countdownlatchdemo/countdownlatchdemo.iml" />
+      <module fileurl="file://C:\workplace\android_project\speed_test\countdownlatchdemo\countdownlatchdemo.iml" filepath="C:\workplace\android_project\speed_test\countdownlatchdemo\countdownlatchdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/randomaccessfiledemo/randomaccessfiledemo.iml" filepath="$PROJECT_DIR$/randomaccessfiledemo/randomaccessfiledemo.iml" />
+      <module fileurl="file://C:\workplace\android_project\speed_test\randomaccessfiledemo\randomaccessfiledemo.iml" filepath="C:\workplace\android_project\speed_test\randomaccessfiledemo\randomaccessfiledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/speed_test.iml" filepath="$PROJECT_DIR$/.idea/speed_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadpooldemo/threadpooldemo.iml" filepath="$PROJECT_DIR$/threadpooldemo/threadpooldemo.iml" />
+      <module fileurl="file://C:\workplace\android_project\speed_test\threadpooldemo\threadpooldemo.iml" filepath="C:\workplace\android_project\speed_test\threadpooldemo\threadpooldemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/uploaddemo/uploaddemo.iml" filepath="$PROJECT_DIR$/uploaddemo/uploaddemo.iml" />
+      <module fileurl="file://C:\workplace\android_project\speed_test\uploaddemo\uploaddemo.iml" filepath="C:\workplace\android_project\speed_test\uploaddemo\uploaddemo.iml" />
     </modules>
   </component>
 </project>

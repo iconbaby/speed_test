@@ -148,7 +148,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 try {
                     Process p;
                     p = Runtime.getRuntime().exec(
-                            "ping -c 1 " + "192.168.61.1");
+                            "ping -c 1 " + "8.8.8.8");
                     int status = p.waitFor();
                     InputStream inputStream = p.getInputStream();
                     InputStreamReader bis = new InputStreamReader(inputStream);
