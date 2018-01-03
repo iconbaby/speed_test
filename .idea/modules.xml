@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpeedTest.iml" filepath="$PROJECT_DIR$/SpeedTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/countdownlatchdemo/countdownlatchdemo.iml" filepath="$PROJECT_DIR$/countdownlatchdemo/countdownlatchdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/randomaccessfiledemo/randomaccessfiledemo.iml" filepath="$PROJECT_DIR$/randomaccessfiledemo/randomaccessfiledemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/uploaddemo/uploaddemo.iml" filepath="$PROJECT_DIR$/uploaddemo/uploaddemo.iml" />
     </modules>
   </component>
