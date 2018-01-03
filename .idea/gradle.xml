@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/countdownlatchdemo" />
             <option value="$PROJECT_DIR$/randomaccessfiledemo" />
+            <option value="$PROJECT_DIR$/threadpooldemo" />
             <option value="$PROJECT_DIR$/uploaddemo" />
           </set>
         </option>
