@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HgNetSpeedTest</string>
+    <string name="connect_state">连接状态</string>
+    <string name="now_speed">当前速度</string>
+    <string name="ave_speed">平均速度</string>
+    <string name="upload">上行</string>
+    <string name="download">下载</string>
+    <string name="begin_test">开始测试</string>
+</resources>
