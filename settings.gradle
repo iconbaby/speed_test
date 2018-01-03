@@ -1,1 +1,1 @@
-include ':app', ':uploaddemo'
+include ':app', ':uploaddemo', ':countdownlatchdemo'
